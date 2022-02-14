@@ -1,1 +1,1 @@
-Katas_python
+Repositorio que contiene las katas 0 a 10, realizadas en jupyter notebooks y archvios .py para LauchX: Onboarding
